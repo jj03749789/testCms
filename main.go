@@ -82,6 +82,7 @@ func configation(app *iris.Application){
 
 
 
+
 //MVC 架构模式处理
 func mvcHandle(app *iris.Application){
 	//启用session
